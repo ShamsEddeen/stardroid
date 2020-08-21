@@ -132,7 +132,7 @@
     <string name="crab_nebula" translation_description="hubble object">سديم السرطان</string>
     <string name="eagle_nebula" translation_description="hubble object">سديم النسر</string>
     <string name="andromeda_galaxy" translation_description="hubble object">مجرة أندروميدا</string>
-    <string name="orion_nebula" translation_description="hubble object">Orion Nebula</string>
+    <string name="orion_nebula" translation_description="hubble object">سديم الجبار</string>
     <string name="whirlpool_galaxy" translation_description="hubble object">مجرة الدوامة</string>
     <string name="ring_nebula" translation_description="hubble object">سديم الحلقة</string>
     <string name="pinwheel_galaxy" translation_description="hubble object">مجرة المروحة</string>
@@ -195,7 +195,7 @@
     <string name="vela" translation_description="Name of the Vela constellation">الشراع</string>
     <string name="virgo" translation_description="Name of the Virgo constellation">العذراء</string>
     <string name="capricorn" translation_description="Name of the Capricorn constellation">الجدي</string>
-    <string name="southern_cross" translation_description="Name of the Southern Cross constellation">Southern Cross</string>
+    <string name="southern_cross" translation_description="Name of the Southern Cross constellation">الصليب الجنوبي</string>
     <string name="scorpio" translation_description="Name of the Scorpio constellation">Scorpio</string>
     <string name="little_dipper" translation_description="Name of the Little Dipper constellation">Little Dipper</string>
     <string name="little_bear" translation_description="Name of the Little Bear constellation">الدب الأصغر</string>
